@@ -1,6 +1,8 @@
 <p align="center"><img src="images/banner.webp" alt="FlowMind Capstone banner" width="100%"></p>
 
-# FlowMind: The Multimodal Socratic Tutor 
+# FlowMind: The Multimodal Socratic Tutor
+
+> This is a capstone project from November 2025. The related, maintained product is [FlowMind](https://github.com/ronithrashmikara/FlowMind), a separate repository.
 
 > **Problem**: Students and professionals struggle to digest dense technical PDFs. Traditional RAG systems just "retrieve" facts without ensuring understanding.
 >
