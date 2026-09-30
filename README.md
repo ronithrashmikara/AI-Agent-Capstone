@@ -1,3 +1,5 @@
+<p align="center"><img src="images/banner.webp" alt="FlowMind Capstone banner" width="100%"></p>
+
 # FlowMind: The Multimodal Socratic Tutor 
 
 > **Problem**: Students and professionals struggle to digest dense technical PDFs. Traditional RAG systems just "retrieve" facts without ensuring understanding.
